@@ -1,0 +1,19 @@
+{
+  "name": "vue-min-chat",
+  "version": "1.0.0",
+  "description": "a vue.js minChat project!",
+  "main": "index.js",
+  "scripts": {
+    "dev": "supervisor index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "weilin-liao@qq.com",
+  "license": "ISC",
+  "dependencies": {
+    "dingtalk-robot-sender": "^1.2.0",
+    "express": "^4.17.1",
+    "mongodb": "^3.5.2",
+    "mysql": "^2.18.1",
+    "socket.io": "^2.3.0"
+  }
+}
