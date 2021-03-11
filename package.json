@@ -1,7 +1,7 @@
 {
   "name": "vue-min-chat",
   "version": "1.0.0",
-  "description": "A Vue.js project",
+  "description": "一个vue.js + Element UI + node.js + socket.io + mysql在线聊天室项目",
   "author": "weilin-liao@qq.com",
   "license": "MIT",
   "private": false,
